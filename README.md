@@ -7,7 +7,9 @@ Download the RA_Javascript_PI.rap file in the deployment folder.  It is a Relati
   2.	When in a Workspace, click the Javascript_PI tab and then the Object 1 tab.    
   3.	Click the New Object 1 button:  
   4.	On the Layout, you will notice that there is one Drop Down List box.  By selecting different choices, the associated textboxes are either displayed or hidden.
-
+![both images](https://github.com/kCura-Relativity/javascript-pi/blob/master/documentation/images/both.jpg)
+![a_only](https://github.com/kCura-Relativity/javascript-pi/blob/master/documentation/images/a_only.jpg)
+![b_only](https://github.com/kCura-Relativity/javascript-pi/blob/master/documentation/images/b_only.jpg)
 
 Download the Visual Studio project in the code folder.  Use the source code a reference to see how to accomplish injecting javascript into an Event Handler.
   1.	To compile the solution please make sure to add references to the following DLL’s.
