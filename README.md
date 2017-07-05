@@ -1,7 +1,7 @@
 # javascript-pi
 Open Source Community: This application shows an example of how to use a Page Interaction event handler and JavaScript to connect a change event on an html element.  The code responds to a change event by dynamically showing the input box that corresponds to a choice in the drop down.  The event handler only files in edit mode on the object and there is no Pre Load event handler to set proper display if value is on field.  There is also no logic from submitting info entered into the hidden inputs.  I hope one day to turn this into a tool where you can test out JavaScript without having to create the Page Interaction event handler just to do it.
 
-# Dynamically showing and hiding fields on a layout.
+## Dynamically showing and hiding fields on a layout.
 Download the RA_Javascript_PI.rap file in the deployment folder.  It is a Relativity Application which contains the compiled DLL (for the Event Handler) and the fields required for the example.
   1.	Install the application in the Application Library and eventually into a Workspace.
   2.	When in a Workspace, click the Javascript_PI tab and then the Object 1 tab.    
